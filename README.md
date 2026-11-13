@@ -193,7 +193,7 @@ The generated code is not necessarily semantically correct. Syntax learning and 
 Clone the repository and navigate into the project directory:
 
 ```bash
-git clone https://github.com/Mohan24047/NanoCoder.git
+git clone https://github.com/Mohan2416/NanoCoder.git
 
 cd NanoCoder
 ```
